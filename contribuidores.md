@@ -17,4 +17,5 @@
 - Andres Esau - [GitHub](http://github.com/Andres8ezau) 
 - Zaid De Anda - [GitHub](https://github.com/ZaidTheJedi)
 - Lilián Ferreira - [GitHub](https://github.com/lilianferreira)
-- issac romero  - [GitHub](https://github.com/IssacRom-96/hello-world)
+- issac romero  - [GitHub](https://github.com/IssacRom-96/hello-world
+- Jose Antonio Perez Corona - [GitHub] (https://github.com/japerezcunadm)
